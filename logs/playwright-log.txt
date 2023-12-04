@@ -1,0 +1,250 @@
+{"level":30,"time":"2023-11-08T02:21:07.763Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Listening on 53554"}
+{"level":30,"time":"2023-11-08T02:21:07.822Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:07.823Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:07.830Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:07.830Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:07.836Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-11-08T02:21:08.458Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-11-08T02:21:08.466Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-11-08T02:21:08.466Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-11-08T02:21:08.490Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changed active context"}
+{"level":30,"time":"2023-11-08T02:21:08.798Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Video path: undefined"}
+{"level":30,"time":"2023-11-08T02:21:08.798Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changed active page"}
+{"level":30,"time":"2023-11-08T02:21:09.679Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method newPage"}
+{"level":30,"time":"2023-11-08T02:21:09.687Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-08T02:21:09.687Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with text=Novo in page."}
+{"level":30,"time":"2023-11-08T02:21:09.832Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method click"}
+{"level":30,"time":"2023-11-08T02:21:09.843Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:09.844Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=.card-header-title >> text=Cadastrar novo usuário in page."}
+{"level":30,"time":"2023-11-08T02:21:10.044Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:10.050Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-08T02:21:10.050Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=input[name=\"nome\"] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.090Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-08T02:21:10.094Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-08T02:21:10.094Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=input[name=\"email\"] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.120Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-08T02:21:10.123Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-11-08T02:21:10.123Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=.ordem select in page."}
+{"level":30,"time":"2023-11-08T02:21:10.166Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Option entries: 3"}
+{"level":30,"time":"2023-11-08T02:21:10.166Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-11-08T02:21:10.166Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-11-08T02:21:10.170Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.170Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=input[name=\"Data de nascimento\"] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.455Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.458Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-11-08T02:21:10.458Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[1] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.492Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Option entries: 12"}
+{"level":30,"time":"2023-11-08T02:21:10.492Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-11-08T02:21:10.492Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-11-08T02:21:10.495Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method selectOption"}
+{"level":30,"time":"2023-11-08T02:21:10.495Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=(//header[@class=\"datepicker-header\"]//select)[2] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.537Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Option entries: 111"}
+{"level":30,"time":"2023-11-08T02:21:10.537Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method selectOption"}
+{"level":30,"time":"2023-11-08T02:21:10.537Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Selected entries: 1"}
+{"level":30,"time":"2023-11-08T02:21:10.542Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.542Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//a[contains(@class, \"datepicker-cell\")]//span[text()=\"20\"] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.627Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.629Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-08T02:21:10.629Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with id=insta in page."}
+{"level":30,"time":"2023-11-08T02:21:10.656Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-08T02:21:10.659Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.659Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//input[@value=\"Cavaleiro Jedi\"]/..//span[@class=\"check\"] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.712Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.716Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.716Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//input[@name=\"comunications\"]/../span[@class=\"check\"] in page."}
+{"level":30,"time":"2023-11-08T02:21:10.829Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.832Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.832Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=button >> text=Cadastrar in page."}
+{"level":30,"time":"2023-11-08T02:21:10.899Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method click"}
+{"level":30,"time":"2023-11-08T02:21:10.906Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:10.906Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2023-11-08T02:21:10.911Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:10.914Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:10.914Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=.toast div in page."}
+{"level":30,"time":"2023-11-08T02:21:10.934Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element css=.toast div containing Usuário cadastrado com sucesso!"}
+{"level":30,"time":"2023-11-08T02:21:10.934Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:10.939Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method goTo"}
+{"level":30,"time":"2023-11-08T02:21:11.063Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method goTo"}
+{"level":30,"time":"2023-11-08T02:21:11.066Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:11.066Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with css=.carousel in page."}
+{"level":30,"time":"2023-11-08T02:21:11.083Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:11.090Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:11.090Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.093Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-11-08T02:21:11.096Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.096Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.123Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.123Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.126Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.126Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.139Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.139Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.142Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.142Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.156Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.156Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.171Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.171Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.190Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.191Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.205Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.205Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.227Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.227Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.239Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.239Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.252Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.252Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.266Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.266Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.292Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.292Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.306Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.306Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.323Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.324Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.337Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.337Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.354Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.354Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.369Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.369Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.391Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.391Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.406Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.406Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.424Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.424Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.438Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.439Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.467Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.467Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.480Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.480Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.491Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.491Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.504Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.505Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.530Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.530Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.544Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.544Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.569Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.569Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.582Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.582Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.595Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.595Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.609Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.609Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.638Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.638Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.651Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.651Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.683Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.683Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.697Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.697Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.718Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.718Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.731Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.731Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.749Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.750Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.763Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.763Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.783Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.783Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.796Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.796Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.814Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.815Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.827Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.827Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.838Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.838Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.850Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.850Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.863Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.864Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.876Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.876Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.890Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.890Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.903Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.903Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.915Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.915Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.928Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.928Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.942Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.942Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.954Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.955Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.967Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.967Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.979Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:11.979Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:11.992Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:11.993Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.005Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.005Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:12.017Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:12.017Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.029Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.029Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:12.041Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:12.042Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.053Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.054Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:12.067Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:12.067Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.080Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.080Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:12.097Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:12.097Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.109Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.109Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:12.124Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:12.124Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.137Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.137Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:12.151Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:12.151Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.164Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.164Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Strict mode is enabled, find Locator with xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. in page."}
+{"level":30,"time":"2023-11-08T02:21:12.175Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Retrieved text for element xpath=//td[contains(text(), \"yoda@jedi.com\")]/.. containing  Mestre Yoda\tyoda@jedi.com\t20/02/1970\t@yoda\t"}
+{"level":30,"time":"2023-11-08T02:21:12.175Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-08T02:21:12.177Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-11-08T02:21:12.178Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","Take screenshot with options: ":{"path":"D:\\Documents\\Cursos EAD\\robot\\yodapp\\logs\\browser\\screenshot\\fail-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-11-08T02:21:12.468Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-11-08T02:21:12.480Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-11-08T02:21:12.480Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","Take screenshot with options: ":{"path":"D:\\Documents\\Cursos EAD\\robot\\yodapp\\logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-11-08T02:21:12.871Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-11-08T02:21:12.877Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.880Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.882Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.884Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.887Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changed active context"}
+{"level":30,"time":"2023-11-08T02:21:12.887Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changing current active page: page=63eb038a-ffc5-4a95-baa0-a3f6e92aaa51"}
+{"level":30,"time":"2023-11-08T02:21:12.887Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changed active page"}
+{"level":30,"time":"2023-11-08T02:21:12.894Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.896Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.898Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-11-08T02:21:12.899Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-11-08T02:21:12.903Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-11-08T02:21:12.904Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-11-08T02:21:12.909Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changing current active page: page=63eb038a-ffc5-4a95-baa0-a3f6e92aaa51"}
+{"level":30,"time":"2023-11-08T02:21:12.909Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changed active page"}
+{"level":30,"time":"2023-11-08T02:21:12.914Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.917Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.920Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changed active context"}
+{"level":30,"time":"2023-11-08T02:21:12.920Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changing current active page: page=63eb038a-ffc5-4a95-baa0-a3f6e92aaa51"}
+{"level":30,"time":"2023-11-08T02:21:12.920Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Changed active page"}
+{"level":30,"time":"2023-11-08T02:21:12.924Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-11-08T02:21:12.945Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Removed page=94435c16-f891-41d0-b785-2adeabcf7b43 from context=6ebc81f2-c298-45dc-8280-489ba609a618 page stack"}
+{"level":30,"time":"2023-11-08T02:21:12.983Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-11-08T02:21:12.999Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:12.999Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-08T02:21:13.118Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-11-08T02:21:13.277Z","pid":1648,"hostname":"LAPTOP-3SBMM8V1","msg":"End of node method closeAllBrowsers"}
